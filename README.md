@@ -72,3 +72,5 @@ The `Contract` class should have the following methods:
 ## Resources
 
 - [Python classes](https://docs.python.org/3/tutorial/classes.html)
+
+Antwoine Griggs
